@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Mubiito Godfrey</h1>
 <p align="center">
-Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica</a> | Green Cyber Advocate 🌍 | Cybersecurity Trainer | Tech for Africa
+Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurity (ASA)</a> | Green Cyber Advocate 🌍 | Cybersecurity Trainer | Tech for Africa
 </p>
 
 ---
