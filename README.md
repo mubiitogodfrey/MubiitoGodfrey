@@ -6,10 +6,10 @@ Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurit
 ---
 
 ### 💬 About Me
-- 🛡️ I lead **Allsafeafrica**, a cybersecurity company dedicated to protecting and empowering African communities.
-- 🌿 Creator of **GreenGuard**, an AI-powered ESG Data Protection Project focused on sustainable cybersecurity.
+- 🛡️ I lead **Allsafeafrica Cybersecurity (ASA)**, a cybersecurity company dedicated to protecting and empowering African communities.
+- 🌿 Creator and Project Lead of **GreenGuard Cyber**, an AI-powered ESG Data Protection Project focused on sustainable cybersecurity.
 - 📢 Speaker & advocate for **Green Cyber Awareness**, Open Source Ethics, and Youth Digital Inclusion.
-- 🧠 Always building: from restaurant management systems to full-stack security training apps.
+- 🧠 Always building: from Mobile Tracking Apps, Restaurant and Hotel management systems to full-stack apps.
 - 🎯 Currently pushing boundaries with **AWS + GCP**, custom Linux setups, and next-gen security education.
 
 ---
