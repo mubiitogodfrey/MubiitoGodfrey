@@ -35,7 +35,7 @@ Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurit
 
 ### 🔥 Featured Projects
 
-- 🛡️ **[GreenGuard: AI-Driven ESG Data Protection](https://github.com/Allsafeafrica/greenguard-esg)**  
+- 🛡️ **[GreenGuard: AI-Driven ESG Data Protection](https://allsafeafrica.github.io/GreenGuard/)**  
   Sustainable cybersecurity solution protecting ESG data on the cloud
 
 - 📚 **[Linux Security Essentials Training](https://allsafeafrica.github.io/cybersecurity-courses/index.html)**  
