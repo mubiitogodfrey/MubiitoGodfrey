@@ -60,7 +60,7 @@ Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurit
 - 💼 [LinkedIn](https://www.linkedin.com/in/mubiito-godfrey/)  
 - 🧠 [GitHub Org](https://github.com/Allsafeafrica)  
 - 🟢 WhatsApp: Click to Join the Allsafeafrica Cybersecurity Community.
-     [Join](https://chat.whatsapp.com/GcYCogAEnVZA7n6ilHVZ1A)
+     [Join](https://chat.whatsapp.com/Efshu4Gv75F4tnZVmGmaTr)
 ---
 
 > _“I believe cybersecurity should be inclusive, sustainable, and Afrocentric.” — Mubiito Godfrey_
