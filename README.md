@@ -38,7 +38,7 @@ Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurit
 - 🛡️ **[GreenGuard: AI-Driven ESG Data Protection](https://allsafeafrica.github.io/GreenGuardCyberAI/)**  
   Sustainable cybersecurity solution protecting ESG data on the cloud
 
-- 📚 **[Linux Security Essentials Training](https://allsafeafrica.github.io/cybersecurity-courses/index.html)**  
+- 📚 **[Linux Security Essentials Training](https://allsafeafricacyberhub.netlify.app)**  
   Open cybersecurity training for African youth w/ practical labs, quizzes & certs
 
 - 🌐 **[Allsafeafrica Web Platform](https://allsafeafrica.netlify.app/)**  
@@ -58,7 +58,7 @@ Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurit
 
 - 🔗 [Website](https://allsafeafrica.netlify.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mubiito-godfrey/)  
-- 🧠 [GitHub Org](https://github.com/Allsafeafrica)  
+- 🧠 [Allsafeafrica Cybersecurity (ASA)](https://github.com/Allsafeafrica)  
 - 🟢 WhatsApp: Click to Join the Allsafeafrica Cybersecurity Community.
      [Join](https://chat.whatsapp.com/Efshu4Gv75F4tnZVmGmaTr)
 ---
