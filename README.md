@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Mubiito Godfrey</h1>
 <p align="center">
-Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurity (ASA)</a> | Green Cyber Advocate 🌍 | Cybersecurity Trainer | Tech for Africa
+Founder @ <a href="https://allsafeafrica.com">Allsafeafrica Cybersecurity (ASA)</a> | Green Cyber Advocate 🌍 | Cybersecurity Trainer | Tech for Africa
 </p>
 
 ---
@@ -41,7 +41,7 @@ Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurit
 - 📚 **[Linux Security Essentials Training](https://allsafeafricacyberhub.netlify.app)**  
   Open cybersecurity training for African youth w/ practical labs, quizzes & certs
 
-- 🌐 **[Allsafeafrica Web Platform](https://allsafeafrica.netlify.app/)**  
+- 🌐 **[Allsafeafrica Web Platform](https://allsafeafrica.com/)**  
   Home to cybersecurity services, courses, and GreenGuard ecosystem
 
 ---
@@ -56,7 +56,7 @@ Founder @ <a href="https://allsafeafrica.netlify.app">Allsafeafrica Cybersecurit
 
 ### 🌍 Let’s Connect
 
-- 🔗 [Website](https://allsafeafrica.netlify.app)  
+- 🔗 [Website](https://allsafeafrica.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mubiito-godfrey/)  
 - 🧠 [Allsafeafrica Cybersecurity (ASA)](https://github.com/Allsafeafrica)  
 - 🟢 WhatsApp: Click to Join the Allsafeafrica Cybersecurity Community.
