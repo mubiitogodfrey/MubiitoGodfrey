@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Mubiito Godfrey</h1>
 <p align="center">
-Founder @ <a href="https://allsafeafrica.com">Allsafeafrica Cybersecurity (ASA)</a> | Green Cyber Advocate 🌍 | Cybersecurity Trainer | Tech for Africa
+Helping African Startups Stay Cyber Safe | Founder @ Allsafeafrica | GreenGuard Cyber AI Lead
 </p>
 
 ---
