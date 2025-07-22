@@ -35,7 +35,7 @@ Helping African Startups Stay Cyber Safe | Founder @ Allsafeafrica | GreenGuard 
 
 ### 🔥 Featured Projects
 
-- 🛡️ **[GreenGuard: AI-Driven ESG Data Protection](https://greenguard.allsafeafrica.com)**  
+- 🛡️ **[GreenGuard: AI-Driven ESG Data Protection](https://allsafeafrica.github.io/greenguardcyberai/)**  
   Sustainable cybersecurity solution protecting ESG data on the cloud
 
 - 📚 **[Linux Security Essentials Training](https://allsafeafrica.com)**  
