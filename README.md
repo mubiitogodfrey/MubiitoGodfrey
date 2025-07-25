@@ -74,7 +74,6 @@ Helping African Startups Stay Cyber Safe | Founder @ Allsafeafrica | GreenGuard 
 
 ### 💡 Certifications & Highlights
 
-- 🧠 **AI for Cybersecurity Professionals** – EC-Council  
 - 🌍 **Open Source Ethics & Secure Development** – LFX  
 - 🥇 Selected for **HubSpot for Startups + Google for Startups Accelerator: Africa**
 - 🚀 Launched 4+ live products using **Firebase, Next.js, FastAPI**, and **Cloud Infra**
