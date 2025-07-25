@@ -50,16 +50,16 @@ Helping African Startups Stay Cyber Safe | Founder @ Allsafeafrica | GreenGuard 
 - 🧠 **[GreenGuard Cyber AI](https://allsafeafrica.github.io/greenguardcyberai/)**  
   → AI-powered ESG cybersecurity platform with real-time data intel + API (FastAPI + Hugging Face)
 
-- 📱 **Allsafeafrica Web Platform**  
+- 📱 **[Allsafeafrica Web Platform](https://allsafeafrica.com)**  
   → Built with Firebase Auth, Firestore, Admin/Student Dashboards, Course LMS, Certificate System, and AI chatbot integrations.
 
-- 🛰️ **Cybersecurity Tracking Solution**  
+- 🛰️ **[Cybersecurity Tracking Solution](https://allsafeafrica.com)**  
   → Firebase + Maps + Logs + Real-time dashboards for Red Team geolocation awareness.
 
-- 🧪 **Linux Security Essentials Training**  
+- 🧪 **[Linux Security Essentials Training](https://allsafeafrica.com)**
   → Custom labs + walkthroughs + quizzes to skill up the next gen of African cyber pros.
 
-- 🎨 **CyberWakanda Comics**  
+- 🎨 **[CyberWakanda Comics](https://allsafeafrica.com)**  
   → Comic series fusing storytelling with AI + ESG + Cyber awareness. 100% Afrocentric.
 
 ---
