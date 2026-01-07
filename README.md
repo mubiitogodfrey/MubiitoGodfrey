@@ -88,7 +88,7 @@ Helping African Startups Stay Cyber Safe | Founder @ Allsafeafrica | GreenGuard 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mubiito-godfrey/)  
 - 🧠 [Allsafeafrica GitHub Org](https://github.com/Allsafeafrica)  
 - 🧪 [FastAPI API on Hugging Face](https://huggingface.co/spaces/Allsafeafrica)  
-- 🟢 [Join Our Cyber WhatsApp Hub](https://chat.whatsapp.com/Efshu4Gv75F4tnZVmGmaTr)
+- 🟢 [Join Our Cyber WhatsApp Hub](https://chat.whatsapp.com/D0QHFeEPz88GLaFC75vGFs)
 
 ---
 
