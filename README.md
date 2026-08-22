@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://allsafeafrica.com">Website</a> •
+  <a href="https://allsafeafrica.org">Website</a> •
   <a href="https://www.linkedin.com/in/mubiito-godfrey/">LinkedIn</a> •
-  <a href="https://github.com/Allsafeafrica">Allsafeafrica</a>
+  <a href="https://github.com/Allsafeafrica">Allsafeafrica GitHub</a>
 </p>
 
 ---
@@ -20,14 +20,14 @@
 
 I'm **Mubiito Godfrey**, a cybersecurity-focused technologist and founder working at the intersection of **cybersecurity, artificial intelligence, cloud infrastructure, and digital inclusion**.
 
-I build and lead technology initiatives designed to solve real-world security and resilience challenges — particularly in environments where infrastructure, skills, resources, and security maturity are constrained.
+I build and lead technology initiatives designed to solve real-world security, resilience, and infrastructure challenges — particularly in environments where infrastructure, skills, resources, and security maturity are constrained.
 
-My work spans:
+My technical interests span:
 
 * 🛡️ **Cybersecurity Engineering & Defensive Security**
 * 🤖 **AI Security, Governance & Responsible AI**
 * ☁️ **Cloud & Infrastructure Security**
-* ⚙️ **Platform Engineering & Developer Infrastructure**
+* ⚙️ **Platform Engineering & Cloud Native Technologies**
 * 🔐 **Data Protection, DLP & User Behavior Analytics**
 * 🧠 **Security Education & Cybersecurity Capacity Building**
 * 🌍 **Open Source & Digital Inclusion**
@@ -53,9 +53,9 @@ Training • Labs • Internships • Mentorship • CTFs • Practical security
 Security monitoring • DLP • UBA • AI-assisted security • Data protection
 
 **Open Technology**
-Open-source experimentation • Developer tooling • Security research • Community projects
+Open-source experimentation • Security research • Developer tooling • Community projects
 
-→ **[allsafeafrica.com](https://allsafeafrica.com)**
+🌐 **[allsafeafrica.org](https://allsafeafrica.org)**
 
 ---
 
@@ -65,7 +65,7 @@ Open-source experimentation • Developer tooling • Security research • Comm
 
 > **Artificial Intelligence + Cybersecurity + ESG + Data Protection**
 
-The platform focuses on helping organizations understand, protect, and operationalize sensitive ESG and organizational data through intelligent security workflows.
+The initiative focuses on helping organizations understand, protect, and operationalize sensitive ESG and organizational data through intelligent security workflows.
 
 Areas of work include:
 
@@ -77,7 +77,41 @@ Areas of work include:
 * Responsible AI adoption
 * Security and compliance intelligence
 
-→ **[GreenGuard Cyber AI](https://allsafeafrica.github.io/greenguardcyberai/)**
+🌿 **[Explore GreenGuard Cyber AI](https://allsafeafrica.github.io/greenguardcyberai/)**
+
+---
+
+## ⚙️ Cloud Native & Platform Engineering
+
+I'm expanding my work beyond application development into **cloud-native architecture, platform engineering, and developer infrastructure**.
+
+My current focus includes:
+
+* Kubernetes
+* Meshery
+* Platform Engineering
+* Cloud Native Architecture
+* Infrastructure Design
+* APIs & Service Integration
+* Developer Experience
+* Observability
+* Automation
+* Secure Infrastructure
+
+### 🧩 Meshery Mentorship — 2026 Term 3
+
+I am participating in the **Meshery Mentorship Program — 2026 Term 3**, exploring Meshery's capabilities for visual infrastructure design, cloud-native architecture, and platform engineering.
+
+As part of the mentorship, I created my first **Meshery Design**, earning the **Design Pioneer** badge.
+
+<p align="center">
+  <img src="assets/meshery-design-pioneer.png" alt="Meshery Design Pioneer Badge" width="300">
+</p>
+
+> **Design Pioneer — Layer5**
+> Awarded upon creating my first Meshery Design during the Meshery Mentorship Program, 2026 Term 3.
+
+This represents an important step in my transition from building individual applications toward designing **secure, observable, and scalable technology platforms**.
 
 ---
 
@@ -95,13 +129,13 @@ Areas of work include:
 
 `AWS` `Google Cloud` `Firebase` `Supabase` `Docker` `Linux` `CI/CD` `GitHub Actions`
 
+### Platform Engineering
+
+`Kubernetes` `Meshery` `Cloud Native` `Developer Platforms` `Infrastructure as Code` `APIs` `Automation` `Observability`
+
 ### Software Engineering
 
 `Python` `JavaScript` `TypeScript` `PHP` `FastAPI` `Next.js` `React` `Tailwind CSS`
-
-### Platform Engineering
-
-`Kubernetes` `Meshery` `Cloud Native` `Developer Platforms` `APIs` `Automation` `Observability` `Infrastructure`
 
 ---
 
@@ -150,7 +184,7 @@ AI-powered cybersecurity and ESG data protection initiative.
 
 **Stack:** Python • FastAPI • Hugging Face • AI/ML
 
-→ [Explore Project](https://allsafeafrica.github.io/greenguardcyberai/)
+→ **[Explore Project](https://allsafeafrica.github.io/greenguardcyberai/)**
 
 ---
 
@@ -160,7 +194,7 @@ Cybersecurity ecosystem combining professional security services, education, pra
 
 **Focus:** Cybersecurity • education • security engineering • digital inclusion
 
-→ [Visit Allsafeafrica](https://allsafeafrica.com)
+→ **[Visit Allsafeafrica](https://allsafeafrica.org)**
 
 ---
 
@@ -188,9 +222,7 @@ A practical cybersecurity learning ecosystem built around:
 * Mentorship
 * Cybersecurity internships
 
-The goal is simple:
-
-> **Move learners from consuming cybersecurity content to actually operating security technology.**
+> **The objective is to move learners from consuming cybersecurity content to actually operating security technology.**
 
 ---
 
@@ -219,7 +251,7 @@ I'm interested in contributing to ecosystems around:
 * Cybersecurity Education
 * Responsible AI
 
-I'm particularly interested in projects where **security, infrastructure, and developer experience intersect**.
+I'm particularly interested in projects where **security, infrastructure, developer experience, and emerging technologies intersect**.
 
 ---
 
@@ -246,17 +278,20 @@ I'm particularly interested in projects where **security, infrastructure, and de
 * **AI Security & Governance**
 * **NDG Linux Unhatched**
 * **IEEE Standards Engagement — P7100 / P2834.1**
-* **Open Source & Secure Development learning through LFX ecosystem**
+* **Open Source & Secure Development learning through the LFX ecosystem**
+* **Meshery Mentorship Program — 2026 Term 3**
+* **Meshery Design Pioneer**
 
 ---
 
-## 🌐 Community & Ecosystem Engagement
+## 🌍 Community & Ecosystem Engagement
 
 My work extends beyond code.
 
 I've participated in and contributed to technology ecosystems involving:
 
 * Cloud Native technologies
+* Kubernetes and platform engineering
 * Google Developer Groups
 * AI developer communities
 * Cybersecurity awareness initiatives
@@ -270,23 +305,28 @@ I also serve as a **2026 Cybersecurity Awareness Month Champion**, supporting br
 
 ## 🧭 What I'm Building Toward
 
-I'm particularly interested in the future of:
+My long-term technical direction sits at the intersection of:
 
 ```text
-Secure AI
-    ↓
-AI Governance
-    ↓
-Cloud & Platform Security
-    ↓
-Developer Infrastructure
-    ↓
-Cyber Resilience
-    ↓
-Inclusive Digital Infrastructure
+                    SECURE AI
+                       │
+                       ▼
+                AI GOVERNANCE
+                       │
+                       ▼
+             CLOUD & PLATFORM SECURITY
+                       │
+                       ▼
+             DEVELOPER INFRASTRUCTURE
+                       │
+                       ▼
+                CYBER RESILIENCE
+                       │
+                       ▼
+          INCLUSIVE DIGITAL INFRASTRUCTURE
 ```
 
-The long-term objective is not simply to build more software.
+The objective isn't simply to build more software.
 
 It is to build **technology ecosystems that are secure by design, resilient by default, and accessible to the communities that need them most.**
 
@@ -296,11 +336,11 @@ It is to build **technology ecosystems that are secure by design, resilient by d
 
 I'm open to conversations around:
 
-**Cybersecurity • AI Security • Cloud Security • Platform Engineering • Open Source • African Tech Ecosystems • Strategic Partnerships • Research**
+**Cybersecurity • AI Security • Cloud Security • Platform Engineering • Kubernetes • Meshery • Open Source • African Tech Ecosystems • Strategic Partnerships • Research**
 
 <p align="center">
 
-<a href="https://allsafeafrica.com">
+<a href="https://allsafeafrica.org">
   <img src="https://img.shields.io/badge/Website-Allsafeafrica-0A66C2?style=for-the-badge" />
 </a>
 
