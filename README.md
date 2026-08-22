@@ -105,7 +105,7 @@ I am participating in the **Meshery Mentorship Program — 2026 Term 3**, explor
 As part of the mentorship, I created my first **Meshery Design**, earning the **Design Pioneer** badge.
 
 <p align="center">
-  <img src="assets/meshery-design-pioneer.png" alt="Meshery Design Pioneer Badge" width="300">
+  <img src="https://drive.google.com/drive/folders/1zdUI373kMAd1PvuD8wyGO2RyhEN04E3g" alt="Meshery Design Pioneer Badge" width="300">
 </p>
 
 > **Design Pioneer — Layer5**
