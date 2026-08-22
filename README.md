@@ -1,4 +1,4 @@
-# Mubiito Godfrey
+# <p align="center"> Mubiito Godfrey </p>
 
 <p align="center">
   <strong>Cybersecurity Engineer • AI Security & Governance • Cloud & Platform Engineering • Founder</strong>
