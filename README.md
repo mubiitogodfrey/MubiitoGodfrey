@@ -77,7 +77,7 @@ Areas of work include:
 * Responsible AI adoption
 * Security and compliance intelligence
 
-🌿 **[Explore GreenGuard Cyber AI](https://allsafeafrica.github.io/greenguardcyberai/)**
+🌿 **[Explore GreenGuard Cyber AI](https://huggingface.co/Allsafeafrica)**
 
 ---
 
@@ -184,7 +184,7 @@ AI-powered cybersecurity and ESG data protection initiative.
 
 **Stack:** Python • FastAPI • Hugging Face • AI/ML
 
-→ **[Explore Project](https://allsafeafrica.github.io/greenguardcyberai/)**
+→ **[Explore Project](https://huggingface.co/Allsafeafrica)**
 
 ---
 
