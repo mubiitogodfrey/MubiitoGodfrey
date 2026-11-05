@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://allsafeafrica.org">Allsafeafrica</a> •
   <a href="https://allsafeafrica.lovable.app/">All Safe Africa Foundation</a> •
   <a href="https://www.linkedin.com/in/mubiito-godfrey/">LinkedIn</a> •
   <a href="https://github.com/Allsafeafrica">Allsafeafrica on GitHub</a>
