@@ -1,4 +1,4 @@
-# Mubiito Godfrey
+# Mubiito Godfrey R, PhD
 
 <p align="center">
   <strong>Cybersecurity • AI Security & Governance • Digital Rights • Technology Leadership</strong>
@@ -21,7 +21,7 @@
 
 My leadership is driven by a simple belief: **everyone should be able to use technology safely, confidently and meaningfully.**
 
-I am **Mubiito Godfrey**, a Ugandan cybersecurity professional, technology founder and community builder. As Founder of **All Safe Africa Foundation** and an **ETSI Ambassador in Uganda**, I work across cybersecurity awareness, digital safety, responsible technology, youth empowerment and inclusive innovation.
+I am **Mubiito Godfrey R, PhD**, a Ugandan cybersecurity professional, technology founder and community builder. As Founder of **All Safe Africa Foundation** and an **ETSI Ambassador in Uganda**, I work across cybersecurity awareness, digital safety, responsible technology, youth empowerment and inclusive innovation.
 
 My work connects technical practice with the realities people face online. I am interested in how cybersecurity, artificial intelligence, human rights and public-interest technology can help build safer and more resilient communities—particularly across Africa.
 
